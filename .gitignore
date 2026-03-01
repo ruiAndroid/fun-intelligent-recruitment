@@ -24,7 +24,6 @@ Thumbs.db
 .vscode/
 
 # Environment files
-.env
 .env.*
 !.env.example
 
