@@ -1,0 +1,7 @@
+{
+  "llm": {
+    "apiKey": "sk-8e78660ba8034d528093e4fd7839f7df",
+    "baseURL": "https://dashscope.aliyuncs.com/api/v1/services/aigc/multimodal-generation/generation",
+    "model": "qwen-vl-max"
+  }
+}
